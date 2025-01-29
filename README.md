@@ -5,8 +5,11 @@
 
 This project is an automatic chessboard powered by an ESP32, designed to offer an interactive and autonomous chess experience. It features automatic movement of chess pieces with step motors and electromagnets, a smart Neopixel LED board for gameplay interactions, an LCD display to show game status, and a connection to an external application for remote control and gameplay. This project was developed as part of my integration project for my technical diploma in electronic programming.
 
-![Chessboard](echec1.jpeg)
-![Chessboard](echec2.jpeg)
+<p float="left">
+  <img src="echec1.jpeg" width="250" />
+  <img src="echec2.jpeg" width="250" />
+</p>
+
 ## Features
 
 - **Automatic Movement**: Chess pieces are moved automatically using step motors and electromagnets, allowing for a fully automated chess game.
